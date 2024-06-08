@@ -35,7 +35,7 @@ function CheckoutForm() {
                 elements: elements,
 
                 confirmParams: {
-                    return_url: "http://localhost:3000/success"
+                    return_url: "https://fake-taxido.vercel.app/"
                 },
             }
         )
